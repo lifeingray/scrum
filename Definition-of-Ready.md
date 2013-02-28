@@ -108,7 +108,7 @@ An official component of Scrum, Artifacts provide the skeleton of tools necessar
 - Sprint Backlog
 - Sprint Burndown template (Scrum Master)
 
-### Non-Blocking Requirements
+### NON-BLOCKING REQUIREMENTS
 Non-Blocking Requirements do not prevent a Sprint from being conducted or work items for being actionable.  The only exception is a failure of timely communication on the part of the Team.  If organizational policies clearly state a required timeframe for specific approvals or decisions and the Team does not properly adhere to these policies, the items below are not considered non-blocking.  However, in the absence of official, written policy the criteria below are non-blocking.  For example, a Product Owner asks a Vice President to validate the approach to a work item during the period of Grooming and the executive doesn't provide feedback prior to Sprint Planning.
 
 - Review by Architectural Group of all work items in Product Backlog tagged with @architecture
