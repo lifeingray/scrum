@@ -90,6 +90,7 @@ An official component of Scrum, Ceremonies provide the skeleton of the gathering
 - Product Council
 	- Completed for upcoming Sprint.
 	- Calendar invitations sent to all attendees for next 8 Sprints
+
 ### Artifacts
 An official component of Scrum, Artifacts provide the skeleton of tools necessary to conduct a Sprint.
 - Product Backlog
