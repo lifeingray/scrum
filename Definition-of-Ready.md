@@ -3,10 +3,10 @@ The Definition of Ready is the gatekeeper between the Product Backlog and Sprint
 
 This document must be satisfied, in full, prior to moving work items from the Product Backlog to the Sprint Backlog near the conclusion of the Sprint Planning meeting.  There are special circumstances where select work items may be exempt from meeting all the criteria in the Definition of Ready, such as the relationship between interfaces and non-functional requirements.  Exceptions may be considered by an all-Team vote during the Sprint Planning meeting.  Absentee votes may be made by proxy but a no-show cannot veto at a later time.  The action of the Scrum Master moving work items into the Sprint Backlog constitutes a commitment for delivery on the behalf of the Team.
 
-## BLOCKING REQUIREMENTS
+### BLOCKING REQUIREMENTS
 Blocking Requirements can prevent a Sprint from being initiated or prevent work items from being actionable.
 
-### Operators
+#### Operators
 Not a formal term in Scrum, Operators are a checklist of knowledge, resources, tools for a Team to conduct a Sprint.  These items are often facilitated outside the Team by Management.  If the criteria in this section is not met, a Sprint may not be conducted — even if individual work items meet the subsequent requirements in the Artifacts section.
 
 - Each financial quarter operates on a 6x2+1 schedule @next
@@ -24,7 +24,7 @@ Not a formal term in Scrum, Operators are a checklist of knowledge, resources, t
 - All Team members have undergone new employee onboarding
 - All Team members have undergone Scrum Training [link]
 
-### Indicators
+#### Indicators
 Not a formal term in Scrum, Indicators are a basic set of cultural guiding posts which describe successful communication habits in a Sprint.
 
 - Meetings start on time, end on time
@@ -35,7 +35,7 @@ Not a formal term in Scrum, Indicators are a basic set of cultural guiding posts
 - Team Mission up-to-date @now
 - Next 3 Sprint Goals are defined @now
 
-### Instruments
+#### Instruments
 Not a formal term in Scrum, Instruments are mechanisms to track the preparedness for a Sprint, past performance of a Team, and the status of current commitments by a Team.  All Instruments are the responsibility of the Scrum Master.
 
 - Electronic Product Backlog tool is accessible and editable by all Team members
@@ -44,9 +44,9 @@ Not a formal term in Scrum, Instruments are mechanisms to track the preparedness
 - Defect chart @now
 - Risk Burndown @next
 - Release Burndown @next
-- Product Vision Board (http://bit.ly/TTj1yF) @next
-- Product Canvas (http://bit.ly/XtqUAZ) @next
-- Product Roadmap up-to-date @next
+- [Product Vision Board](http://bit.ly/TTj1yF) @next
+- [Product Canvas](http://bit.ly/XtqUAZ) @next
+- [Product Roadmap](http://bit.ly/ZEIdwU) @next
 - Rocks up-to-date @next
 - Cumulative Flow Diagram @next
 - Control Chart @next
@@ -57,7 +57,7 @@ Not a formal term in Scrum, Instruments are mechanisms to track the preparedness
 - Staff notified of all releases since conclusion of previous Sprints
 - Release Notes sent to staff@ since conclusion of previous Sprint @next
 
-### Ceremonies
+#### Ceremonies
 An official component of Scrum, Ceremonies provide the skeleton of the gatherings necessary to estimate, plan, and execute a Sprint.  The last three Ceremonies listed are not official components of Scrum.
 
 - Daily Stand-Up (Scrum Master)
@@ -91,7 +91,7 @@ An official component of Scrum, Ceremonies provide the skeleton of the gathering
 	- Completed for upcoming Sprint.
 	- Calendar invitations sent to all attendees for next 8 Sprints
 
-### Artifacts
+#### Artifacts
 An official component of Scrum, Artifacts provide the skeleton of tools necessary to conduct a Sprint.
 - Product Backlog
 	- Users Stories which involve schema changes, the addition of code libraries, upgrade to existing libraries, or third party integrations are tagged with @architecture.
@@ -108,14 +108,14 @@ An official component of Scrum, Artifacts provide the skeleton of tools necessar
 - Sprint Backlog
 - Sprint Burndown template (Scrum Master)
 
-## Non-Blocking Requirements
+### Non-Blocking Requirements
 Non-Blocking Requirements do not prevent a Sprint from being conducted or work items for being actionable.  The only exception is a failure of timely communication on the part of the Team.  If organizational policies clearly state a required timeframe for specific approvals or decisions and the Team does not properly adhere to these policies, the items below are not considered non-blocking.  However, in the absence of official, written policy the criteria below are non-blocking.  For example, a Product Owner asks a Vice President to validate the approach to a work item during the period of Grooming and the executive doesn't provide feedback prior to Sprint Planning.
 
 - Review by Architectural Group of all work items in Product Backlog tagged with @architecture
 - Input or decisions by Stakeholders
 - Input or decisions by Management
 
-## External Document References
+### External Document References
 - How to distinguish an Epic and User Story
 - How to Write a User Story
 - How to Conduct a Successful Sprint Review
@@ -124,3 +124,6 @@ Non-Blocking Requirements do not prevent a Sprint from being conducted or work i
 - Repository Map @next
 - Release Procedure @next
 - Environment Map @next
+- [Product Vision Board](http://bit.ly/TTj1yF)
+- [Product Canvas](http://bit.ly/XtqUAZ)
+- [Product Roadmap](http://bit.ly/ZEIdwU)
