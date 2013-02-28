@@ -115,7 +115,7 @@ Non-Blocking Requirements do not prevent a Sprint from being conducted or work i
 - Input or decisions by Stakeholders
 - Input or decisions by Management
 
-# External Document References
+## External Document References
 - How to distinguish an Epic and User Story
 - How to Write a User Story
 - How to Conduct a Successful Sprint Review
